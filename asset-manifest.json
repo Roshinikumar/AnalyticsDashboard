@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AnalyticsDashoard/static/css/main.2a2cfa55.css",
+    "main.js": "/AnalyticsDashoard/static/js/main.3df0bd63.js",
+    "index.html": "/AnalyticsDashoard/index.html",
+    "main.2a2cfa55.css.map": "/AnalyticsDashoard/static/css/main.2a2cfa55.css.map",
+    "main.3df0bd63.js.map": "/AnalyticsDashoard/static/js/main.3df0bd63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a2cfa55.css",
+    "static/js/main.3df0bd63.js"
+  ]
+}
